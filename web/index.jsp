@@ -13,7 +13,7 @@
         <title>Página 1</title>
     </head>
     <body>
-        <h1>Página principal</h1>
+        <h1>Hola mundo git</h1>
         <nav>
             <ul>
                 <li>
